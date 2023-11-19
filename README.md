@@ -1,0 +1,2 @@
+# Abstraction
+OOPs concept- Abstraction.
